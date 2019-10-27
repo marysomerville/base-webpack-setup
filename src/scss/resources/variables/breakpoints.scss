@@ -1,0 +1,21 @@
+$breakpoints: (
+    phone-xs: 0,
+    phone-sm: 321px,
+    phone-md: 426px,
+    tablet: 576px,
+    desktop-sm: 775px,
+    desktop-lg: 992px,
+    desktop-xl: 1200px,
+    desktop-xxl: 1280px,
+    desktop-xxxl: 1367px,
+    desktop-xxxxl: 1740px
+);
+
+$mobile-large: 480px;
+$tablet-small: 640px;
+$tablet-medium: 768px;
+$tablet-large: 1024px;
+$desktop-small: 1280px;
+$desktop-large: 1440px;
+$desktop-xlarge: 1740px;
+$desktop-xxlarge: 1920px;

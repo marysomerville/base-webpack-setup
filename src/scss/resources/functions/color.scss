@@ -1,0 +1,4 @@
+@function color($map, $key, $alpha: 1) {
+  $color: map-get($map, $key);
+  @return rgba($color, $alpha);
+}
